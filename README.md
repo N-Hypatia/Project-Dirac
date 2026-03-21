@@ -1,51 +1,46 @@
-![Pete Davidson jokes about asking Elon Musk for a Tesla before meeting](https://github.com/user-attachments/assets/d07bfd2b-9a35-4364-b98a-3b9bfb281c9f)
+# Project Dirac
 
-# Welcome to Learning-Very-Interesting-Maths-Only! 
+A comprehensive exploration of mathematical complexity theory, dimensional analysis, and theoretical physics concepts.
 
-This repository is dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics.
-Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
+## Overview
 
-Overview
+This repository is dedicated to formalizing and understanding **Complexity Numbers** and related theoretical frameworks including the **Complexity Universe Theory**. It serves as a collection of research, notebooks, and mathematical explorations on advanced topics in complexity, topology, and mathematical physics.
 
-# In this repository, you'll find:
+## Repository Structure
 
-  - Educational Resources: Curated articles, papers, and book recommendations on advanced and interesting mathematical concepts.
-  - Code Examples: Practical implementations and code snippets demonstrating key mathematical principles and algorithms.
-  - Tutorials and Guides: Step-by-step tutorials that explain complex topics in an accessible way.
-  - Discussion and Contributions: Space for discussions on various topics and contributions from the community to enhance the repository's content.
+- **Complexity Universe/**: Core materials on complexity universe theory and complexity diagrams
+- **Infinity-Analysis/**: Exploration of infinity analysis with problem sets and symbolic computations
+- **Tensors/Learning/**: Tutorials and learning materials on tensor mathematics (L1, L2)
+- **Probability Distributions/**: Sampling and distribution analysis
+- **Variété/**: Differential geometry exploration (Julia implementation)
+- **TOY MODELS/**: Simplified models for concept exploration
+- **Theory-of-mathematization-logicalization-of-language/**: Language formalization theory
 
-# Topics Covered
+## Current Goals
 
-  - Advanced Algebra: Dive into topics like abstract algebra, group theory, and ring theory.
-  - Calculus and Analysis: Explore real and complex analysis, differential equations, and calculus of variations.
-  - Geometry and Topology: Understand the intricacies of Euclidean and non-Euclidean geometry, as well as topological spaces and invariants.
-  - Number Theory: Delve into prime numbers, modular arithmetic, and cryptographic applications.
-  - Combinatorics: Study permutations, combinations, graph theory, and more.
-  - Probability and Statistics: Learn about stochastic processes, statistical inference, and probabilistic models.
+- **Formalizing Complexity Numbers** (5% Complete)
+  - Define and establish the mathematical foundation for Complexity Numbers
+  - Develop rigorous definitions and properties
 
-# Getting Started
+## Key Topics
 
-To get started with this repository:
+- **Complexity Numbers**: Foundational definitions and theoretical development
+- **Dimensional Diagrams**: Visual and mathematical representations of dimensional relationships
+- **Hyperspheres**: Geometric structures in higher dimensions
+- **Tensors**: Mathematical tensor operations and applications
+- **Gamma Functions**: Special function analysis
+- **Probability Distributions**: Sampling methods and distribution theory
 
-  - Clone the Repository:
+## Getting Started
 
-        bash
+1. Explore the Jupyter notebooks for interactive mathematical explorations
+2. Check [GOALS.md](GOALS.md) for project milestones and progress
+3. Review [TESTS.md](TESTS.md) for testing and validation details
 
-        git clone https://github.com/yourusername/Learning-Very-Interesting-Maths-Only.git
+## Contributing
 
-  - Explore the Content:
-      Navigate through the directories to find resources and code examples.
+Contributions are welcome. Please ensure any additions align with the project's focus on mathematical rigor and theoretical development.
 
-# Contribute:
-  If you have valuable insights or resources to share, please open a pull request or create an issue to discuss potential improvements.
+---
 
-# Stay Updated:
-  Watch this repository to receive notifications about updates and new content.
-
-# Contributing
-
-We welcome contributions from the community! Whether you want to add new content, suggest improvements, or share your own mathematical insights, your input is valuable. Please follow the guidelines in the CONTRIBUTING.md file for more details.
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+*Last updated: January 2026*
